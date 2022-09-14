@@ -1,0 +1,37 @@
+
+OK
+OK
+AT
+OK
+
++CPIN: READY
+
+SMS DONE
+
+OK
+
+OK
+
+OK
+
+OK
+
+OK
+
+OK
+
+OK
+
+OK
+
+OK
+OK
+
+OK
+OK
+
+OK
+OK
+AT+CENABLELAN=1
+OKAT
+OK

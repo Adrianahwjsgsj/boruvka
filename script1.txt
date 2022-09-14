@@ -1,0 +1,9 @@
+send AT
+expect "OK"
+
+send AT+CUSBPIDSWITCH?
+expect "+CUSBPIDSWITCH: 9001"
+
+send AT+CLANMODE=1
+expect "OK"
+

@@ -1,0 +1,5 @@
+send AT+CENABLELAN=1
+expect "OK"
+
+send AT
+expect "OK"
